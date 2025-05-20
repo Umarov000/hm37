@@ -1,0 +1,1082 @@
+2025-05-16T10:50:44.316Z [ITTERM] error: uncaughtException: log is not defined
+ReferenceError: log is not defined
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/services/logger.service.js:20:1)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:7:16)
+2025-05-16T11:13:01.051Z [ITTERM] error: uncaughtException: Cannot find module 'packageName'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'packageName'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:8:21)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:13:04.859Z [ITTERM] error: uncaughtException: Cannot find module 'wi'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'wi'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:8:12)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:13:19.500Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:18)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:13:20.920Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:19)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:13:23.112Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:13:24.824Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:14:00.853Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:14:21.312Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:14:27.248Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:14:33.254Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:14:36.001Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:14:38.984Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:14:42.212Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:14:45.536Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:15:05.161Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:15:38.819Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:15:47.718Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:16:09.154Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:16:10.049Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:16:18.116Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:16:28.171Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:16:31.698Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:17:05.489Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:18:09.763Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:18:49.956Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:22:21.032Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:22:23.037Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:22:31.437Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:22:37.671Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:24:59.841Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:27:09.579Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:27:22.894Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:27:28.506Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:07.094Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:10.132Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:12.056Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:20.403Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:22.410Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:23.903Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:27.212Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:29.352Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:30.364Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:32.500Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:35.340Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:39.607Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:23)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:28:45.621Z [ITTERM] error: uncaughtException: Cannot find module 'packageName'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'packageName'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:8:21)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:29:08.584Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:20)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:29:19.285Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:20)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:29:20.445Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:20)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:29:23.124Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:20)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:29:28.092Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:25)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:29:30.992Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:29:36.451Z [ITTERM] error: uncaughtException: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+Error: Cannot find module 'express-winston'
+Require stack:
+- /Users/umarov/Documents/dars30-IT-Term/app.js
+    at Function._resolveFilename (node:internal/modules/cjs/loader:1405:15)
+    at defaultResolveImpl (node:internal/modules/cjs/loader:1061:19)
+    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1066:22)
+    at Function._load (node:internal/modules/cjs/loader:1215:37)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:9:24)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+2025-05-16T11:46:57.159Z [ITTERM] error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/Users/umarov/Documents/dars30-IT-Term/node_modules/express/lib/application.js:213:11)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:30:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:151:5)
+    at node:internal/main/run_main_module:33:47
+2025-05-16T11:47:06.230Z [ITTERM] error: uncaughtException: req is not defined
+ReferenceError: req is not defined
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:30:9)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:151:5)
+    at node:internal/main/run_main_module:33:47
+2025-05-16T11:47:08.600Z [ITTERM] error: uncaughtException: reques is not defined
+ReferenceError: reques is not defined
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:30:9)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:151:5)
+    at node:internal/main/run_main_module:33:47
+2025-05-16T11:47:13.623Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:47:18.576Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:47:19.776Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:47:22.077Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:47:27.223Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:47:30.064Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:48:36.290Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:48:48.625Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:48:51.826Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:48:59.386Z [ITTERM] error: uncaughtException: winston.transports.MongoDb is not a constructor
+TypeError: winston.transports.MongoDb is not a constructor
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:9:5)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T11:59:29.227Z [ITTERM] error: uncaughtException: Unexpected identifier 'msg'
+/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:16
+  msg: "HTTP {{req.method}} {{req.url}}",
+  ^^^
+
+SyntaxError: Unexpected identifier 'msg'
+    at wrapSafe (node:internal/modules/cjs/loader:1666:18)
+    at Module._compile (node:internal/modules/cjs/loader:1708:20)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T12:10:29.411Z [ITTERM] error: uncaughtException: ci is not defined
+ReferenceError: ci is not defined
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:12:7)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T12:10:31.167Z [ITTERM] error: uncaughtException: co is not defined
+ReferenceError: co is not defined
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:12:7)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T12:10:32.915Z [ITTERM] error: uncaughtException: collection is not defined
+ReferenceError: collection is not defined
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:12:7)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)
+2025-05-16T12:10:34.457Z [ITTERM] error: uncaughtException: Unexpected token '}'
+/Users/umarov/Documents/dars30-IT-Term/middlewares/loggers/request.logger.js:13
+    }),
+    ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (node:internal/modules/cjs/loader:1666:18)
+    at Module._compile (node:internal/modules/cjs/loader:1708:20)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32)
+    at Function._load (node:internal/modules/cjs/loader:1286:12)
+    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
+    at wrapModuleLoad (node:internal/modules/cjs/loader:235:24)
+    at Module.require (node:internal/modules/cjs/loader:1491:12)
+    at require (node:internal/modules/helpers:135:16)
+    at Object.<anonymous> (/Users/umarov/Documents/dars30-IT-Term/app.js:10:23)

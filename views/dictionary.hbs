@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,6 +6,46 @@
 </head>
 <body>
     <h3>Lug'atlar Sahifasi</h3>
-    
+   
+<div class="container" style="display:flex; gap:15px" id="container">
+</div>
+
 </body>
+<script>
+    async function getDicts(){
+    try {
+        let container = document.getElementById("container")
+
+        let accessToken = localStorage.getItem("accessToken")
+        let response = await fetch("http://localhost:3333/api/dict/", {
+            method:"GET", 
+            headers: { 
+                    Authorization: `Bearer ${accessToken}`, 
+                    "Content-type": "application/json", 
+                },
+        })
+
+        let data = await response.json()
+        console.log(data)
+
+        let topics = ``
+        data.forEach((val) => {
+            topics += `
+            <div class="card" style="width: 18rem;">
+        <img src="https://www.shutterstock.com/image-photo/five-wooden-cubes-word-terms-260nw-1900509511.jpg" class="card-img-top"
+            alt="..." />
+        <div class="card-body">
+            <p class="card-text">${val.term}</p>
+        </div>
+    </div>
+
+            `
+        })
+        container.innerHTML = topics
+    } catch (error) {
+        console.log(error.message)
+    }
+}
+getDicts()
+</script>
 </html>

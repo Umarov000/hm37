@@ -41,7 +41,6 @@ app.set("view engine", "hbs");
 app.set("views", "./views");
 app.use(express.static("views"));
 
-
 app.use("/", viewRoute);
 app.use("/api", indexRoute);
 

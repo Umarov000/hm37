@@ -7,6 +7,50 @@
 </head>
 <body>
     <h3>Topic Sahifa</h3>
-    
+   
+<div class="container" style="display:flex; gap:15px" id="container">
+</div>
+
 </body>
+<script>
+    async function getTopics(){
+
+    try {
+        let container = document.getElementById("container")
+
+        let accessToken = localStorage.getItem("accessToken")
+        let response = await fetch("http://localhost:3333/api/topic/", {
+            method:"GET", 
+            headers: { 
+                    Authorization: `Bearer ${accessToken}`, 
+                    "Content-type": "application/json", 
+                },
+        })
+
+        let data = await response.json()
+        console.log(data)
+
+        let topics = ``
+        data.forEach((val) => {
+            topics += `
+            <div class="card" style="width: 18rem;">
+        <img src="https://cdn.textstudio.com/output/sample/normal/7/4/3/6/topic-logo-73-16347.png" class="card-img-top"
+            alt="..." />
+        <div class="card-body">
+            <p class="card-text">${val.text}</p>
+            <button class="btn ${val.isChecked ? 'btn-success' : 'btn-danger'}">
+            ${val.isChecked ? "Checked" : "Not Checked"} 
+            </button>
+        </div>
+    </div>
+
+            `
+        })
+        container.innerHTML = topics
+    } catch (error) {
+        console.log(error.message)
+    }
+}
+getTopics()
+</script>
 </html>
